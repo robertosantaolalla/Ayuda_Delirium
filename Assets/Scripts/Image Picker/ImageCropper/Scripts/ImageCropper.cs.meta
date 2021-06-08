@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 36771194e183b9644a5e8a7da8266967
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - canvas: {instanceID: 0}
+  - m_viewport: {instanceID: 0}
+  - m_imageHolder: {instanceID: 0}
+  - m_orientedImage: {instanceID: 0}
+  - m_selection: {instanceID: 0}
+  - m_selectionGraphics: {instanceID: 0}
+  - viewportSizeChangeListener: {instanceID: 0}
+  - selectionGraphicsSynchronizer: {instanceID: 0}
+  - flipHorizontalButton: {instanceID: 0}
+  - flipVerticalButton: {instanceID: 0}
+  - rotate90DegreesButton: {instanceID: 0}
+  - textsSynchronizer: {instanceID: 0}
+  - cropRenderCanvas: {instanceID: 0}
+  - cropRenderImage: {instanceID: 0}
+  - cropRenderSelection: {instanceID: 0}
+  - cropRenderCamera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

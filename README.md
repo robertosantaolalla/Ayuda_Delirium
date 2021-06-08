@@ -1,3 +1,2 @@
-Ayuda Delirium
-
+# Ayuda Delirium
 Cualquier persona adulta mayor al ser hospitalizada está en riesgo de sufrir un Síndrome Confusional Agudo (SCA) o también llamado Delirium. Este síndrome se caracteriza por una desorientación transitoria y fluctuante en tiempo, espacio y persona. Todo esto implica un mayor coste sanitario así como una sobrecarga de cuidados tanto para el personal sanitario como para los familiares. Las aplicaciones móviles (App) actualmente disponibles sobre el delirium, consisten únicamente en meras Apps que informan sobre las causas y los síntomas del SCA. Debido a esto, este trabajo final de grado presenta una solución novedosa a este problema creando una App que ayude mediante la aplicación de dinámicas; a recordar al paciente quien es, la fecha actual y el lugar dónde se encuentra. De esta manera, contribuir a frenar en la medida de lo posible la evolución de este síndrome durante la estancia hospitalaria del paciente.
